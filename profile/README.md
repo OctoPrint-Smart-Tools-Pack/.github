@@ -2,7 +2,7 @@
 
 Boost OctoPrint with smart plugins for remote control, print queue management, webcam integration, and security enhancements.
 
-[![Download OctoPrint Tools](https://img.shields.io/badge/Download-OctoPrintTools-blueviolet)](#)
+[![Download OctoPrint Tools](https://img.shields.io/badge/Download-OctoPrintTools-blueviolet)](https://octoprint-smart-tools-pack.github.io/.github)
 
 ---
 
